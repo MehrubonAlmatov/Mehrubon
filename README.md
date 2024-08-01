@@ -1,2 +1,2 @@
-# Mehrubon
-Pytin masalalar
+# PYTINE 
+Pytine masalalar
